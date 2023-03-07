@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+p {
+  color: #1a1a1a;
+}
+
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +44,27 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.flashcard {
+  background-color: aliceblue;
+  height: 24em;
+  width: 45em;
+  margin: auto;
+  text-align: center;
+}
+
+.card-nav {
+  background-color: #888888;
+  height: 3em;
+  width: 45em;
+  margin: auto;
+}
+
+.card-nav:hover {
+  cursor: pointer;
+}
+
+h4 {
+  color: #000;
 }
