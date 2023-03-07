@@ -1,4 +1,4 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Games Flashcards*
 
 Submitted by: **Kelvin Zhao**
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 - [ ] Cards contains images in addition to or in place of text
 - [ ] Cards have different visual styles such as color based on their category
-  - [ ] *visual style implemented*
+    - [ ] *visual style implemented*
 
 The following **additional** features are implemented:
 
@@ -33,7 +33,7 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
